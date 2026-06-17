@@ -1,0 +1,11 @@
+{
+    "symbol-whitelist": [
+        "stream_mode_is_appendable",
+        "stream_mode_is_readable",
+        "stream_mode_is_read_only",
+        "stream_mode_is_writable"
+    ],
+    "scan-files": [
+        "vendor/thecodingmachine/safe/generated/8.4/pcre.php"
+    ]
+}
